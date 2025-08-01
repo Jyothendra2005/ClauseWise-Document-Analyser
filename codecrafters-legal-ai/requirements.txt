@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit
+pinecone-client
+requests
+python-multipart
+pydantic
+pdfplumber
+python-docx
+transformers
+sentence-transformers
+tqdm
+
+
